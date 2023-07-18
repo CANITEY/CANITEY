@@ -23,7 +23,7 @@
 I'm a cybersecurity trainer, from Egypt, I like coding, hacking and learning new stuff
 - 🔭 I’m currently working on getting better in cyber security
 - 💬 Ask me about any thing you want
-- 📫 How to reach me: use the link above
+- 📫 How to reach me: use links above
 
 ----
 
