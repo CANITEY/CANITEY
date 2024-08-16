@@ -49,7 +49,7 @@ I'm a cybersecurity trainee, from Egypt, I like coding, hacking and learning new
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CANITEY&theme=highcontrast&border_radius=1.5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CANITEY&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CANITEY&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
