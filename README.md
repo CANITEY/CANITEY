@@ -5,21 +5,20 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/CANITEYv01">
-        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://m.me/mohamedmed.01345">
         <img src="https://img.shields.io/badge/messenger-skyblue?logo=messenger&logoColor=black&style=for-the-badge" alt="Messenger Badge"/>
     </a>
 </div>
   
-  ![](https://komarev.com/ghpvc/?username=CANITEY&style=for-the-badge)
 </div>
 <h1 align=center>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About me
+## About me
 I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and learning new stuff.
 - 🔭 I’m currently working on learning android application penetration testing and hardining my web application penetration testing skills.
 - 💬 Ask me about programming, hacking, or just chat.
@@ -27,12 +26,28 @@ I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and l
 
 ----
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+## :hammer_and_wrench: My arsenal:
+### Programming Languages:
+<div style="display:flex; justify-content: center; gap: 3px;">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" width="40" title="html" alt="html">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" width="40" title="css3" alt="css3">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="40" title="js" alt="js">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PHP-Dark.svg" width="40" title="php" alt="php">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" width="40" title="python" alt="python">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg" width="40" title="cpp" alt="cpp">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40" title="golang" alt="golang">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" width="40" title="mysql" alt="mysql">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Rust.svg" width="40" title="rust" alt="rust">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Light.svg" width="40" title="java" alt="java">&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Dark.svg" width="40" title="bash" alt="bash">&nbsp;
+</div>
+
+### Tools:
+<div style="display:flex; justify-content: center; gap: 3px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NeoVim-Dark.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://nmap.org/images/nmap-project-logo.svg" title="nmap" alt="nmap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;
