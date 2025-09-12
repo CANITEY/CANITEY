@@ -49,13 +49,10 @@ I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and l
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://nmap.org/images/nmap-project-logo.svg" title="nmap" alt="nmap" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="wireshark" alt="wireshark" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" title="metasploit" alt="metasploit" height="40"/>&nbsp;
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" title="metasploit" alt="metasploit" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" title="arch" alt="arch" width="40" height="40"/>&nbsp;
-  <svg role="img" viewBox="0 0 30 25" xmlns="http://www.w3.org/2000/svg" id="Burpsuite--Streamline-Simple-Icons" height="40" width="40">
-  <title>Burp Suite</title>
-  <path d="M0 0v24h24V0Zm11.063 3.357h1.874v2.756L10.41 9.2h2.527v3.748h4.579l-4.578 5.592v2.104h-1.876v-2.758L13.59 14.8h-2.527v-3.75h-4.58l4.58 -5.592Z" fill="#f76900" stroke-width="1"></path>
-</svg>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgZR5qtuDw07UehLiI0saFHc2_wu9HH01_D9LfJ1ARjRIsP9hC-Ym39oj82z05KCLslw" title="burpsuite" alt="burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://frida.re/img/logotype.svg" title="frida" alt="frida" height="40"/>&nbsp;
 </div>
 
