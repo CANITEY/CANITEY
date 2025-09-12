@@ -57,8 +57,8 @@ I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and l
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" title="metasploit" alt="metasploit" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" title="arch" alt="arch" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgZR5qtuDw07UehLiI0saFHc2_wu9HH01_D9LfJ1ARjRIsP9hC-Ym39oj82z05KCLslw" title="burpsuite" alt="burpsuite" width="40" height="40"/>&nbsp;
-  <img src="https://frida.re/img/logotype.svg" title="frida" alt="frida" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgZR5qtuDw07UehLiI0saFHc2_wu9HH01_D9LfJ1ARjRIsP9hC-Ym39oj82z05KCLslw" title="burpsuite" alt="burpsuite" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://frida.re/img/logotype.svg" title="frida" alt="frida" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
 </div>
@@ -68,7 +68,7 @@ I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and l
 ### :fire: My states
 <div align=center>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CANITEY&theme=vision-friendly-dark&border_radius=1.5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CANITEY&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canitey&layout=compact&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
