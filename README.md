@@ -20,10 +20,10 @@
 </h1>
 
 ### About me
-I'm a cybersecurity trainee, from Egypt, I like coding, hacking and learning new stuff
-- 🔭 I’m currently working on getting better in cyber security
-- 💬 Ask me about any thing you want
-- 📫 How to reach me: use links above
+I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and learning new stuff.
+- 🔭 I’m currently working on learning android application penetration testing and hardining my web application penetration testing skills.
+- 💬 Ask me about programming, hacking, or just chat.
+- 📫 How to reach me: email me via mohammed.ahmed.abdelnabi@outlook.com, or any socials using the buttons above.
 
 ----
 
