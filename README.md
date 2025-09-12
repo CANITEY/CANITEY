@@ -47,16 +47,23 @@ I'm a penetration tester and bug hunter from Egypt, I like coding, hacking and l
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NeoVim-Dark.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://nmap.org/images/nmap-project-logo.svg" title="nmap" alt="nmap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="djanog" alt="djanog" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+  <img src="https://nmap.org/images/nmap-project-logo.svg" title="nmap" alt="nmap" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="wireshark" alt="wireshark" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" title="metasploit" alt="metasploit" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" title="arch" alt="arch" width="40" height="40"/>&nbsp;
+  <svg role="img" viewBox="0 0 30 25" xmlns="http://www.w3.org/2000/svg" id="Burpsuite--Streamline-Simple-Icons" height="40" width="40">
+  <title>Burp Suite</title>
+  <path d="M0 0v24h24V0Zm11.063 3.357h1.874v2.756L10.41 9.2h2.527v3.748h4.579l-4.578 5.592v2.104h-1.876v-2.758L13.59 14.8h-2.527v-3.75h-4.58l4.58 -5.592Z" fill="#f76900" stroke-width="1"></path>
+</svg>
+  <img src="https://frida.re/img/logotype.svg" title="frida" alt="frida" height="40"/>&nbsp;
 </div>
 
+## Frameworks 
+<div style="display:flex; justify-content: center; gap: 3px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
+</div>
 ----
 
 ### :fire: My states
